@@ -1,0 +1,367 @@
+﻿  main.cpp
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Includes\ultis.hpp(34,28): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Includes\ultis.hpp(39,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Includes\ultis.hpp(39,52): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Includes\ultis.hpp(39,73): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Driver\driver.h(141,31): warning C4129: 'h': unrecognized character escape sequence
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Gui\hijack.hpp(257,57): warning C4244: '=': conversion from 'DWORD' to 'WORD', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Gui\hijack.hpp(419,32): warning C4244: 'initializing': conversion from 'LONG' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Gui\hijack.hpp(420,32): warning C4244: 'initializing': conversion from 'LONG' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Gui\hijack.hpp(432,32): warning C4244: 'initializing': conversion from 'LONG' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Gui\hijack.hpp(433,32): warning C4244: 'initializing': conversion from 'LONG' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\game.hpp(11,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\game.hpp(12,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\game.hpp(13,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\game.hpp(38,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\game.hpp(39,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\game.hpp(40,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\game.hpp(103,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\game.hpp(104,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\game.hpp(105,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\game.hpp(107,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\game.hpp(108,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\game.hpp(109,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\game.hpp(111,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\game.hpp(112,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\game.hpp(113,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\game.hpp(114,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\game.hpp(115,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\game.hpp(116,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\game.hpp(119,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\game.hpp(120,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\game.hpp(121,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\game.hpp(122,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\game.hpp(125,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\game.hpp(126,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\game.hpp(127,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\game.hpp(128,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\game.hpp(131,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\game.hpp(132,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\game.hpp(133,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\game.hpp(134,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\esp.hpp(10,72): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\esp.hpp(10,65): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\esp.hpp(10,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\esp.hpp(10,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\esp.hpp(14,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\esp.hpp(15,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\esp.hpp(19,161): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\esp.hpp(19,63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\esp.hpp(19,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\esp.hpp(19,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\esp.hpp(20,161): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\esp.hpp(20,74): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\esp.hpp(20,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\esp.hpp(20,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\esp.hpp(21,169): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\esp.hpp(21,82): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\esp.hpp(21,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\esp.hpp(21,64): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\esp.hpp(22,169): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\esp.hpp(22,69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\esp.hpp(22,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\esp.hpp(22,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\esp.hpp(23,169): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\esp.hpp(23,80): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\esp.hpp(23,75): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\esp.hpp(23,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\esp.hpp(24,169): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\esp.hpp(24,80): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\esp.hpp(24,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\esp.hpp(24,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\esp.hpp(25,177): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\esp.hpp(25,88): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\esp.hpp(25,81): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\esp.hpp(25,66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\esp.hpp(26,177): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\esp.hpp(26,88): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\esp.hpp(26,81): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\esp.hpp(26,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\esp.hpp(28,105): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\esp.hpp(28,63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\esp.hpp(28,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\esp.hpp(28,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\esp.hpp(29,105): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\esp.hpp(29,74): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\esp.hpp(29,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\esp.hpp(29,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\esp.hpp(30,113): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\esp.hpp(30,82): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\esp.hpp(30,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\esp.hpp(30,64): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\esp.hpp(31,113): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\esp.hpp(31,69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\esp.hpp(31,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\esp.hpp(31,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\esp.hpp(32,113): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\esp.hpp(32,80): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\esp.hpp(32,75): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\esp.hpp(32,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\esp.hpp(33,113): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\esp.hpp(33,80): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\esp.hpp(33,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\esp.hpp(33,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\esp.hpp(34,121): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\esp.hpp(34,88): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\esp.hpp(34,81): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\esp.hpp(34,66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\esp.hpp(35,121): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\esp.hpp(35,88): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\esp.hpp(35,81): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\esp.hpp(35,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\esp.hpp(41,175): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\esp.hpp(41,157): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\esp.hpp(41,139): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\esp.hpp(41,121): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\esp.hpp(41,186): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\esp.hpp(41,69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\esp.hpp(41,65): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\esp.hpp(41,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\esp.hpp(41,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\esp.hpp(46,167): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\esp.hpp(46,149): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\esp.hpp(46,131): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\esp.hpp(46,113): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\esp.hpp(46,58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\esp.hpp(46,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\esp.hpp(46,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\loop.hpp(31,22): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\loop.hpp(32,22): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\loop.hpp(33,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\loop.hpp(71,31): warning C4244: 'argument': conversion from 'float' to 'DWORD', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\loop.hpp(71,22): warning C4244: 'argument': conversion from 'float' to 'DWORD', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\loop.hpp(138,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\loop.hpp(139,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\loop.hpp(141,24): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\loop.hpp(142,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\loop.hpp(153,88): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\loop.hpp(153,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\loop.hpp(206,82): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\loop.hpp(227,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\loop.hpp(227,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\loop.hpp(230,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\loop.hpp(230,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\loop.hpp(405,16): warning C4244: '+=': conversion from '__int64' to 'unsigned int', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\loop.hpp(470,11): warning C4244: '=': conversion from '__int64' to 'char', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\loop.hpp(477,12): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\loop.hpp(493,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\loop.hpp(516,35): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\loop.hpp(516,21): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\loop.hpp(527,35): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\loop.hpp(527,21): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\loop.hpp(735,148): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\loop.hpp(735,124): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\loop.hpp(735,92): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\loop.hpp(735,69): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\loop.hpp(736,148): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\loop.hpp(736,125): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\loop.hpp(736,94): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\loop.hpp(736,70): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\loop.hpp(737,148): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\loop.hpp(737,125): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\loop.hpp(737,94): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\loop.hpp(737,70): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\loop.hpp(738,146): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\loop.hpp(738,123): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\loop.hpp(738,92): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\loop.hpp(738,69): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\loop.hpp(739,146): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\loop.hpp(739,123): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\loop.hpp(739,92): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\loop.hpp(739,69): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\loop.hpp(742,146): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\loop.hpp(742,123): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\loop.hpp(742,92): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\loop.hpp(742,69): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\loop.hpp(746,146): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\loop.hpp(746,123): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\loop.hpp(746,92): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\loop.hpp(746,69): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\loop.hpp(747,146): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\loop.hpp(747,123): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\loop.hpp(747,92): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\loop.hpp(747,69): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\loop.hpp(748,146): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\loop.hpp(748,123): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\loop.hpp(748,92): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\loop.hpp(748,69): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\loop.hpp(749,146): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\loop.hpp(749,123): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\loop.hpp(749,92): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\loop.hpp(749,69): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\loop.hpp(750,148): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\loop.hpp(750,124): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\loop.hpp(750,92): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\loop.hpp(750,69): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\loop.hpp(753,150): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\loop.hpp(753,126): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\loop.hpp(753,94): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\loop.hpp(753,70): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\loop.hpp(754,150): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\loop.hpp(754,126): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\loop.hpp(754,94): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\loop.hpp(754,70): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\loop.hpp(755,150): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\loop.hpp(755,126): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\loop.hpp(755,94): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\loop.hpp(755,70): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\loop.hpp(756,150): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\loop.hpp(756,126): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\loop.hpp(756,94): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\loop.hpp(756,70): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\loop.hpp(757,150): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\loop.hpp(757,126): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\loop.hpp(757,94): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\loop.hpp(757,70): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\loop.hpp(758,150): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\loop.hpp(758,126): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\loop.hpp(758,94): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\loop.hpp(758,70): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\loop.hpp(762,150): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\loop.hpp(762,126): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\loop.hpp(762,94): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\loop.hpp(762,70): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\loop.hpp(763,150): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\loop.hpp(763,126): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\loop.hpp(763,94): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\loop.hpp(763,70): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\loop.hpp(766,148): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\loop.hpp(766,124): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\loop.hpp(766,92): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\loop.hpp(766,69): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\loop.hpp(767,150): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\loop.hpp(767,126): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\loop.hpp(767,94): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\loop.hpp(767,70): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\loop.hpp(792,18): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\loop.hpp(794,54): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\loop.hpp(797,34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\loop.hpp(797,20): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\loop.hpp(843,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\loop.hpp(844,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\loop.hpp(853,94): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\loop.hpp(853,61): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\loop.hpp(853,51): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\loop.hpp(853,47): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\loop.hpp(853,23): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\loop.hpp(884,48): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\loop.hpp(884,38): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\loop.hpp(891,72): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\loop.hpp(891,58): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\loop.hpp(905,73): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\loop.hpp(905,59): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\loop.hpp(908,73): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\loop.hpp(908,59): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\loop.hpp(912,73): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\loop.hpp(912,59): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\loop.hpp(915,73): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\loop.hpp(915,59): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\loop.hpp(918,73): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\loop.hpp(918,59): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\loop.hpp(921,73): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\loop.hpp(921,59): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\loop.hpp(924,73): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\loop.hpp(924,59): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\loop.hpp(927,73): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\loop.hpp(927,59): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\loop.hpp(930,73): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\loop.hpp(930,59): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\loop.hpp(933,73): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\loop.hpp(933,59): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\loop.hpp(936,73): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\loop.hpp(936,59): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\loop.hpp(943,29): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\loop.hpp(987,31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\loop.hpp(991,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\loop.hpp(995,28): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\loop.hpp(999,88): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\loop.hpp(1029,67): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\loop.hpp(1029,57): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\loop.hpp(1058,79): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\loop.hpp(1062,79): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Gui\setup.hpp(43,79): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Gui\setup.hpp(43,72): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Gui\setup.hpp(43,59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Gui\setup.hpp(43,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Gui\setup.hpp(45,79): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Gui\setup.hpp(45,72): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Gui\setup.hpp(45,59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Gui\setup.hpp(45,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Gui\setup.hpp(50,91): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Gui\setup.hpp(50,72): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Gui\setup.hpp(50,65): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Gui\setup.hpp(50,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Gui\setup.hpp(50,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Gui\setup.hpp(69,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Gui\setup.hpp(69,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Gui\setup.hpp(70,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Gui\setup.hpp(70,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Gui\setup.hpp(71,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Gui\setup.hpp(71,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Gui\setup.hpp(72,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Gui\setup.hpp(72,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Gui\setup.hpp(75,93): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Gui\setup.hpp(76,97): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Gui\setup.hpp(77,99): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Gui\setup.hpp(78,95): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Gui\setup.hpp(263,31): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Gui\setup.hpp(801,66): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Gui\setup.hpp(805,66): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Gui\setup.hpp(957,40): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Gui\setup.hpp(957,25): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Gui\setup.hpp(957,5): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Gui\setup.hpp(956,56): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Gui\setup.hpp(956,38): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Gui\setup.hpp(985,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Gui\setup.hpp(985,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\main.cpp(71,20): warning C4244: '=': conversion from 'LONG' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\main.cpp(72,20): warning C4244: '=': conversion from 'LONG' to 'float', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\main.cpp(73,31): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\main.cpp(74,31): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\main.cpp(109,16): warning C4244: 'return': conversion from 'WPARAM' to 'int', possible loss of data
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\main.cpp(68,9): warning C4101: 'xy': unreferenced local variable
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xstring(2541,23): warning C4244: 'argument': conversion from 'wchar_t' to 'const _Elem', possible loss of data
+          with
+          [
+              _Elem=char
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xstring(2552): message : see reference to function template instantiation 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<wchar_t*>(_Iter,const _Iter,std::input_iterator_tag)' being compiled
+          with
+          [
+              _Iter=wchar_t *
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xstring(2552): message : see reference to function template instantiation 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<wchar_t*>(_Iter,const _Iter,std::input_iterator_tag)' being compiled
+          with
+          [
+              _Iter=wchar_t *
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xstring(2532): message : see reference to function template instantiation 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<wchar_t*>(const _Iter,const _Iter,std::forward_iterator_tag)' being compiled
+          with
+          [
+              _Iter=wchar_t *
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xstring(2532): message : see reference to function template instantiation 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<wchar_t*>(const _Iter,const _Iter,std::forward_iterator_tag)' being compiled
+          with
+          [
+              _Iter=wchar_t *
+          ]
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\loop.hpp(488): message : see reference to function template instantiation 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,0>(_Iter,_Iter,const _Alloc &)' being compiled
+          with
+          [
+              _Elem=wchar_t,
+              _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+              _Alloc=std::allocator<char>
+          ]
+C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\Sexy External\Loop\loop.hpp(488): message : see reference to function template instantiation 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,0>(_Iter,_Iter,const _Alloc &)' being compiled
+          with
+          [
+              _Elem=wchar_t,
+              _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+              _Alloc=std::allocator<char>
+          ]
+  Generating code
+  274 of 2435 functions (11.3%) were compiled, the rest were copied from previous compilation.
+    152 functions were new in current compilation
+    25 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Sexy External.vcxproj -> C:\Users\Damage\Desktop\driver_swapped_eac_cr3_bypassed\x64\Release\Sexy External.exe
